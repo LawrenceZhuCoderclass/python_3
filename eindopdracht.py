@@ -13,7 +13,7 @@ def opslaan(bestandsnaam):
 
 
 
-a
+
 
 def kies():
     print ('''
